@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DJ120_3_3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DJ120_3_3_jar</output-path>
+    <root id="archive" name="DJ120_3_3.jar">
+      <element id="module-output" name="DJ120_3_3" />
+    </root>
+  </artifact>
+</component>
